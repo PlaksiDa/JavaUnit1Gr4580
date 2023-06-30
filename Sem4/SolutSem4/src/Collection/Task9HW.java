@@ -1,3 +1,5 @@
+// 4. Реализовать стэк с помощью массива. Нужно реализовать методы: size(), empty(), push(), peek(), pop().
+
 package Collection;
 
 public class Task9HW<T> {
